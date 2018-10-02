@@ -1,60 +1,60 @@
 @font-face {
-  font-family: 'Open Sans';
-  src: url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-Regular.woff2') format('woff2'), url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-Regular.woff') format('woff');
+  font-family: 'MetaWeb-Normal';
+  src: url('../../../../Customizing/global/skin/bghw/fonts/DGUV_Meta_Web/DGUVMetaWeb-Normal.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Open Sans';
-  src: url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-Bold.woff2') format('woff2'), url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-Bold.woff') format('woff');
+  font-family: 'MetaWeb-Normal';
+  src: url('../../../../Customizing/global/skin/bghw/fonts/DGUV_Meta_Web/DGUVMetaWeb-Normal.woff') format('woff');
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Open Sans';
-  src: url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-Italic.woff2') format('woff2'), url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-Italic.woff') format('woff');
+  font-family: 'MetaWeb-Normal';
+  src: url('../../../../Customizing/global/skin/bghw/fonts/DGUV_Meta_Web/DGUVMetaWeb-NormalIta.woff') format('woff');
   font-weight: 400;
   font-style: italic;
 }
 @font-face {
-  font-family: 'Open Sans';
-  src: url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-BoldItalic.woff2') format('woff2'), url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-BoldItalic.woff') format('woff');
+  font-family: 'MetaWeb-Normal';
+  src: url('../../../../Customizing/global/skin/bghw/fonts/DGUV_Meta_Web/DGUVMetaWeb-NormalIta.woff') format('woff');
   font-weight: 700;
   font-style: italic;
 }
 @font-face {
-  font-family: 'Open Sans';
-  src: url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-Light.woff2') format('woff2'), url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-Light.woff') format('woff');
+  font-family: 'MetaWeb-Normal';
+  src: url('../../../../Customizing/global/skin/bghw/fonts/DGUV_Meta_Web/DGUVMetaWeb-Normal.woff') format('woff');
   font-weight: 300;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Open Sans';
-  src: url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-LightItalic.woff2') format('woff2'), url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-LightItalic.woff') format('woff');
+  font-family: 'MetaWeb-Normal';
+  src: url('../../../../Customizing/global/skin/bghw/fonts/DGUV_Meta_Web/DGUVMetaWeb-NormalIta.woff') format('woff');
   font-weight: 300;
   font-style: italic;
 }
 @font-face {
-  font-family: 'Open Sans';
-  src: url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-Semibold.woff2') format('woff2'), url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-Semibold.woff') format('woff');
+  font-family: 'MetaWeb-Normal';
+  src:url('../../../../Customizing/global/skin/bghw/fonts/DGUV_Meta_Web/DGUVMetaWeb-Normal.woff') format('woff');
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Open Sans';
-  src: url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-SemiboldItalic.woff2') format('woff2'), url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-SemiboldItalic.woff') format('woff');
+  font-family: 'MetaWeb-Normal';
+  src: url('../../../../Customizing/global/skin/bghw/fonts/DGUV_Meta_Web/DGUVMetaWeb-NormalIta.woff') format('woff');
   font-weight: 600;
   font-style: italic;
 }
 @font-face {
-  font-family: 'Open Sans';
-  src: url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-ExtraBold.woff2') format('woff2'), url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-ExtraBold.woff') format('woff');
+  font-family: 'MetaWeb-Normal';
+  src: url('../../../../Customizing/global/skin/bghw/fonts/DGUV_Meta_Web/DGUVMetaWeb-Normal.woff') format('woff');
   font-weight: 800;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Open Sans';
-  src: url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-ExtraBoldItalic.woff2') format('woff2'), url('../../../../templates/default/fonts/OpenSansWeb/OpenSans-ExtraBoldItalic.woff') format('woff');
+  font-family: 'MetaWeb-Normal';
+  src: url('../../../../Customizing/global/skin/bghw/fonts/DGUV_Meta_Web/DGUVMetaWeb-NormalIta.woff') format('woff');
   font-weight: 800;
   font-style: italic;
 }
@@ -1082,7 +1082,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+  font-family: 'MetaWeb-Normal', Verdana, Arial, Helvetica, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
@@ -5972,7 +5972,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+  font-family: 'MetaWeb-Normal', Verdana, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -6090,7 +6090,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+  font-family: 'MetaWeb-Normal', Verdana, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -9750,7 +9750,7 @@ div.ilBox {
 }
 /* Top-Bar */
 div.ilTopBar {
-  background-color: #434343;
+  background-color: white;
   color: white;
   padding: 5px 10px;
 }
@@ -13584,7 +13584,7 @@ div.ilBlockHeader,
 div.ilBlockHeaderBig,
 td.ilBlockHeader,
 td.ilBlockHeaderBig {
-  /* font-family: 'Open Sans Semibold';  deactivated, since it affects drop downs in the header */
+  /* font-family: 'MetaWeb-Normal';  deactivated, since it affects drop downs in the header */
   font-weight: normal;
   padding: 3px 0;
   margin: 0 5px;
