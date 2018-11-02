@@ -15552,6 +15552,11 @@ html {
     margin: 0 -15px;
   }
 }
+@media print {
+  #mainspacekeeper > .row {
+    background-color: white;
+ }
+}
 #ilTopBar {
   min-height: 40px;
 }
